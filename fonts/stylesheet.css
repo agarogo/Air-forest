@@ -1,0 +1,228 @@
+@font-face {
+    font-family: 'Onest';
+    src: url('Onest-Regular.woff2') format('woff2'),
+    url('Onest-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('Onest-Bold.woff2') format('woff2'),
+    url('Onest-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Onest';
+    src: url('Onest-Medium.woff2') format('woff2'),
+    url('Onest-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+body{
+	font-family: 'Onest';
+	font-weight: 400;
+}
+.gert {
+	font-family: 'Onest';
+	font-weight: 400;
+}
+p {
+	font-weight: 400;
+}
+
+span {
+	font-weight: 300;
+}
+.pur{
+    color: #925FFF;
+}
+.pur2{
+    background-color: #2A5065;
+}
+.pur3{
+    border-color: #925FFF;
+}
+.pur4{
+    background-color: #514D72;
+}
+
+
+
+
+
+
+.opup-bg {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    display: none;
+
+}
+
+.opup {
+    position: absolute;
+    background: #110F25;
+    width: 600px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    padding-top: 60px;
+    border-radius: 25px;
+}
+.close-opup {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.no-scroll {
+    overflow-y: hidden;
+}
+
+
+
+
+
+
+
+
+.opup-bg1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    display: none;
+
+}
+
+.opup1 {
+    position: absolute;
+    background: #110F25;
+    width: 800px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    padding-top: 60px;
+    border-radius: 25px;
+    height: 550px;
+}
+.close-opup1 {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.no-scroll1 {
+    overflow-y: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+.opup-bg2 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    display: none;
+
+}
+
+.opup2 {
+    position: absolute;
+    background: #110F25;
+    width: 800px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    padding-top: 60px;
+    border-radius: 25px;
+    height: 550px;
+}
+.close-opup2 {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.no-scroll2 {
+    overflow-y: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.opup-bg3 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.9);
+    display: none;
+
+}
+
+.opup3 {
+    position: absolute;
+    background: #110F25;
+    width: 800px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 30px;
+    padding-top: 60px;
+    border-radius: 25px;
+    height: 550px;
+}
+.close-opup3 {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.no-scroll3 {
+    overflow-y: hidden;
+}
